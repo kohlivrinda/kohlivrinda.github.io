@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/metaphor-survey
 excerpt: 'A comprehensive survey of the prevalant methodologies for Machine Learning aided Metaphor Detection.'
 # date: 2009-10-01
-venue: 'ADCIS 2023'
+# venue: 'ADCIS 2023'
 paperurl: 'http://kohlivrinda.github.io/files/cracking-the-fig-code-preprint.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
@@ -13,7 +13,7 @@ Metaphor Detection is a crucial area of study in computational linguistics and n
 
 ---
 
-<h4>Keywords</h4>: Metaphor Detection, Natural Language Processing, Linguistic Analysis, Computational Linguistics, Lexical Semantics
+<h3>Keywords</h3> Metaphor Detection, Natural Language Processing, Linguistic Analysis, Computational Linguistics, Lexical Semantics
 
 ---
 
