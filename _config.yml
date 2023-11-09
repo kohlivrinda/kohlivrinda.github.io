@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vrinda's Homepage"
+title                    : "Personal Webpage"
 title_separator          : "-"
 name                     : &name "Vrinda Kohli"
-description              : &description "Trustworthy and Fair AI"
+description              : &description "Trustworthy and Private ML"
 url                      : https://kohlivrinda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kohlivrinda/kohlivrinda.github.io"

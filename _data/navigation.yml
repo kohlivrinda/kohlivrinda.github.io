@@ -13,6 +13,9 @@ main:
 
   - title: "CV"
     url: /files/vrinda-cv.pdf
+
+  - title: "Resume"
+    url : /files/vrinda-resume.pdf
     
   - title: "Portfolio"
     url: /portfolio/
