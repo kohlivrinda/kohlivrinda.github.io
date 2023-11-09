@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/metaphor-survey
 excerpt: 'A comprehensive survey of the prevalant methodologies for Machine Learning aided Metaphor Detection.'
 date: 22-09-2023
-venue: 'ADCIS 2023'
+venue: 'ADCIS'
 paperurl: 'http://kohlivrinda.github.io/files/cracking-the-fig-code-preprint.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
