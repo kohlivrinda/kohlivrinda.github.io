@@ -11,3 +11,5 @@ redirect_from:
 Hi! I'm Vrinda, a final year Computer Science undergraduate with a Data Science minor. My current reseach interests lie in Trustworthy (and private) ML along with NLP. I am also quite curious about Theory of Mind. 
 
 Most of my prior experience is in Computer Vision and I am actively applying for Fall'24 PhD programs.
+
+When I am not pouring over my keyboard, I like to read Science Fiction/Fantasy. Piranesi by Susanna Clarke is a current favourite.
