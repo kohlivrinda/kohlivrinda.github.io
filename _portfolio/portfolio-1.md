@@ -1,6 +1,6 @@
 ---
 title: "Art-VIT"
-excerpt: "A PyTorch implementation of a Vision Transformer for art style classification. <br/><img src='/images/500x300.png'>"
+excerpt: "A PyTorch implementation of a Vision Transformer for art style classification."
 collection: portfolio
 ---
 
