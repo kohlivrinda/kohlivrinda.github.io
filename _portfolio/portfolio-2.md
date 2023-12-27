@@ -9,10 +9,10 @@ This project is a barebones generative transformer model trained for a few epoch
 There are a bunch of things pertaining to this project that I would like to experiment with in future.
 - Currently the model works on word-level, thus the sentences generated may appear nonsensical. The next thing for me is to explore more advanced tokenization methods.
 - Try out SentencePiece
-
+<!-- 
 ### Sample output:
 
-![Image of sample output](/images/shakespeare.png  "shakespeare-gpt-output")
+![Image of sample output](/images/shakespeare.png  "shakespeare-gpt-output") -->
 
 ### Link: 
 [Github](https://github.com/kohlivrinda/shakespeare-gpt)
