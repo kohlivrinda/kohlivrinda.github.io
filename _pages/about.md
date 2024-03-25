@@ -14,4 +14,4 @@ My research interests lie within Differential Privacy and Algorithmic Fairness, 
 
 When I am not pouring over my keyboard, I enjoy reading. Right now, I am hooked onto Katie Mack's 'The End of Everything', a fantastic read if you're interested in cosmic doomdays. (I am only 70 pages through but 10/10, would recommend this book.)
 
-Feel free to connect with me on LinkedIN or reach out via mail if you're interested in collaborations or just a friendly chat :) 
+Feel free to connect with me on LinkedIN or reach out via mail if you're interested in collaborating or just a friendly chat :) 
