@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Personal Webpage"
 title_separator          : "-"
 name                     : &name "Vrinda Kohli"
-description              : &description "Trustworthy and Private ML"
+description              : &description "ML at Gloroots | Trustworthy and Private AI"
 url                      : https://kohlivrinda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kohlivrinda/kohlivrinda.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Vrinda Kohli"
   avatar           : "bio-photo.jpg"
-  bio              : "Computer Science Undergrad"
-  location         : "Jaipur, India"
+  bio              : "Computer Science Senior"
+  location         : "Bengaluru, India"
   employer         :
   pubmed           : 
   googlescholar    :
