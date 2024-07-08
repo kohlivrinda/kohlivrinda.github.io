@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Vrinda, a final year Computer Science undergraduate with a Data Science minor. I am currently developing LLM based solutions for the HRTech world at [Gloroots](https://www.gloroots.com/) as an ML intern.
+Hi! I'm Vrinda, a final year Computer Science undergraduate with a Data Science minor. I am currently developing LLM based recommendation solutions for the HRTech world at [Gloroots](https://www.gloroots.com/) as an MLE. I also conduct NLP research at Boston University as a part of [BITLAB](https://www.leedokyun.com/bitlab.html)
 
 My research interests lie within Differential Privacy and Algorithmic Fairness, and I'm always up for a chat and/or collaborations on projects around the field. Currently I am (slowly but steadily) trying to replicate various adversarial attacks as a side project. Hopefully, I will start writing a blog someday soon, given the procastination overlords free me from my chains. Till that time, stay tuned!
 
